@@ -13,4 +13,4 @@ joao.janinski@escola.pr.gov.br
 @joao_vitor_janinski
 
 
-![image](https://github.com/JoaovitorJK/JoaovitorJK/assets/171157559/93a6b117-25aa-4d9e-b096-47db4278d135)
+![](https://github.com/JoaovitorJK/JoaovitorJK/assets/171157559/93a6b117-25aa-4d9e-b096-47db4278d135)
