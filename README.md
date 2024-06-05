@@ -1,16 +1,16 @@
-## Hi there 👋
+## ola bem vindos ao meu perfil 🎉
 
-<!--
-**JoaovitorJK/JoaovitorJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Vitor
 
-Here are some ideas to get you started:
+- E eu estou estudando no alura
+- Estou me desenvolvendo na linguagem JacaScript
+- Utilizo esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato comigo 📫:
+
+joao.janinski@escola.pr.gov.br
+
+@joao_vitor_janinski
+
+
+![image](https://github.com/JoaovitorJK/JoaovitorJK/assets/171157559/93a6b117-25aa-4d9e-b096-47db4278d135)
