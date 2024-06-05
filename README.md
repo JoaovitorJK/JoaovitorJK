@@ -2,7 +2,7 @@
 
 Meu nome é João Vitor
 
-- E eu estou estudando no alura
+- E eu estou estudando no [alura]httpts:alura.com.br
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
